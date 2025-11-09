@@ -58,9 +58,18 @@ I/P : transient/detached entity
 O/P : a persistent entity
 
 If you pass the entity with , 
-1. null ID : insert query (save)
-2. non null ID BUT matching rec in DB : select ,update
+1. null ID : Since ID is null, Spring Data assumes this is a new entity.A new record is inserted, and the entity becomes persistent (ID gets generated).
+
+2. non null ID BUT matching rec in DB :select ,update JPA checks if record with ID 10 exists. If yes → it updates that record.
+
 3. non null ID BUT no matching rec in DB : select , insert 
+
+| Condition                   | Hibernate Action | SQL Operation      |
+| --------------------------- | ---------------- | ------------------ |
+| ID = null                   | New entity       | `INSERT`           |
+| ID ≠ null + exists in DB    | Existing entity  | `SELECT`, `UPDATE` |
+| ID ≠ null + not found in DB | Treated as new   | `SELECT`, `INSERT` |
+
 
 <S extends T>
 Iterable<S> 	saveAll(Iterable<S> entities)
