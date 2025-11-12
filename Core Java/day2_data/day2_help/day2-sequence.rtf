@@ -1,0 +1,122 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset0 Verdana-Bold;}
+{\colortbl;\red255\green255\blue255;\red127\green0\blue85;\red106\green62\blue62;}
+{\*\expandedcolortbl;;\csgenericrgb\c49804\c0\c33333;\csgenericrgb\c41569\c24314\c24314;}
+\margl1440\margr1440\vieww25600\viewh16000\viewkind1\viewscale160
+\deftab720
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+
+\f0\fs22 \cf0 Today's topics\
+0.	Any specific questions ?\
+1. Revise Java Data Types\
+Understand Conversions in primitive data types\
+1.5 Revise Operators\
+2. JVM Architecture Overview \
+3. Enter OOPs  -- encapsulation , data hiding\
+(class programming)\
+\pard\tx9286\tx9286\tx9286\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+\cf0 4. Introduction to Garbage Collector\
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+\cf0 \
+1. 
+\f1\b Conversions regarding primitive types\
+
+\f0\b0 \
+Automatic conversions , also known as widening or Automatic promotions\
+1. byte--->short--->int---> long--->float--->double\
+eg - byte b1=100;\
+       short s1=b1;\
+2. char ---> int\
+    eg -\
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+\cf2 char\cf0  \cf3 ch\cf0 =65;\
+\cf2 int\cf0  \cf3 i\cf0 =\cf3 ch\cf0 ++;\
+	\
+3. long to float conversion is done automatically by javac  - since float data type can hold larger range of values than long data type\
+What are the rules ?\
+Source & destination operand types must be compatible. Typically destination data type must be able to store larger magnitude of values than that of src data type.\
+\
+1. Any arithmetic operation involving byte or short will be   automatically promoted to int\
+2. With int & long operands , resulting data type is  long\
+3. With long & float , resulting data type is  float\
+4. With byte,short,int , long , float & double, resulting data type is  double.\
+\
+Narrowing conversion is also known as  forced conversion or type-casting. It has to be applied by programmer (javac can not perform it automatically)\
+eg - \
+double ---> int \
+float --> long\
+double ---> float \
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+
+\f1\b \cf0 Solve :\
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+
+\f0\b0 \cf0 What will data type of result of\
+1. byte & byte : int\
+2. byte & short : int\
+3. short & short : int\
+4. int & long : long\
+5. long & float : float\
+6. float & double : double\
+7. byte/short/int/long/float  & double : double\
+\
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+
+\f1\b \cf0 2. reference types
+\f0\b0 \
+class type , array type , interface type\
+\
+
+\f1\b Pointers vs java references
+\f0\b0 \
+Pointer arithmetic is not allowed in java.\
+Reference  holds internal representation of address (equivalent to object pointer in c++)\
+You can't apply arithmetic operators to a reference type of a variable.\
+\
+3. 
+\f1\b Overview of JVM Architecture
+\f0\b0 \
+Refer : Java-Tut-Slides & JVM-Architecture-Overview diagram.\
+\
+4. 
+\f1\b Enter OOP
+\f0\b0 \
+
+\f1\b Objective
+\f0\b0  \
+Create a class to represent 3 Dimensional Box , with width , depth and height.\
+4.1 class Box should maintain tight encapsulation(= entire state : private)\
+4.2 state(fields | properties | attributes) - width,height , depth :  double  \
+4.3 Add a parameterized constructor to initialize the state completely.\
+4.4 Add Instance Methods\
+1. To return Box details in a String form (dims of Box)\
+Identify method declaration consisting of  access specifier , ret type , name , args\
+Identify method definition (body of the method)\
+2. To return computed volume of the box.\
+\
+
+\f1\b 4.5 Create another separate class : TestBox , for  user interaction (UI) , with main method \
+Use scanner , to accept box dimensions from user and  create a box instance.Display box details & volume.\
+\pard\pardeftab720\ri0\sl276\slmult1\sa200\partightenfactor0
+
+\f0\b0 \cf0 \
+4.6 Solve this (Discuss memory picture)\
+Given : Box class is compiled.\
+In main of TestBox\
+Box b1=new Box(1,2,3);\
+b1++;\
+Box b2=b1;\
+b1=new Box(3,4,5);\
+//any objects marked for garbage collection ? how many ? \
+Box b3=b1;\
+b2=new Box(4,5,6);\
+//any objects marked for garbage collection ? how many ?\
+\
+\
+5. 
+\f1\b Garbage Collection 
+\f0\b0 : \
+Refer to day2.pdf\
+\
+\
+}
