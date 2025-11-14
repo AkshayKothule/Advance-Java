@@ -27,7 +27,9 @@ import lombok.ToString;
 @ToString
 public class PatientRegDTO {
 	private UserReqDTO userDetails;
+	@NotBlank("name=Gender cannot be blank")
 	private Gender gender;
 	private BloodGroup bloodGroup;
 	private String familyHistory;
 }
+
