@@ -29,9 +29,11 @@ public class PatientRegDTO {
 	private UserReqDTO userDetails;
 	@NotBlank(mesage="Gender cannot be blank!!!!")
 	private Gender gender;
+	@NotNull(Mesage="bloodGroup cannnot be nulll");
 	private BloodGroup bloodGroup;
 	private String familyHistory;
 }
+
 
 
 
