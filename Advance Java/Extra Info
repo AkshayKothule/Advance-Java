@@ -1,0 +1,8 @@
+| Cascade Type          | What it Does                                       |
+| --------------------- | -------------------------------------------------- |
+| `CascadeType.PERSIST` | Saves child automatically when parent is saved     |
+| `CascadeType.MERGE`   | Updates child automatically when parent is updated |
+| `CascadeType.REMOVE`  | Deletes child automatically when parent is deleted |
+| `CascadeType.REFRESH` | Refreshes child when parent refreshed              |
+| `CascadeType.DETACH`  | Detaches child when parent detached                |
+| `CascadeType.ALL`     | Applies all above (save, update, delete, etc.)     |
