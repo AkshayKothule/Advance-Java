@@ -15,7 +15,8 @@ public class GlobalException {
 		return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
 		
 	}
-	@ExceptionHandler(RuntimeException.class)
+	@ExceptionHandler(RuntimeException.class
+					 )
 	ResponseEntity<?> allExceptionHandler(RuntimeException e){
 		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(e.getMessage());
 		
