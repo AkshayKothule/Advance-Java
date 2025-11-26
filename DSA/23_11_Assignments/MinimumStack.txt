@@ -1,0 +1,21 @@
+The Problem
+Design a Minimum Stack
+
+-----------------------------------------------------------------------------------------
+Problem Statement
+------------------------------------------------------------------------------------------
+Design and implement a stack that supports the following operations in 
+constant time O(1):
+
+push(x) → Push element x onto the stack
+
+pop() → Remove the element on top of the stack
+
+top() → Get the top element
+
+getMin() → Retrieve the minimum element in the stack
+
+All operations must run in O(1) time.
+
+You are required to design a stack that, in addition to normal stack operations (push, pop, top), 
+can also return the minimum element present in the stack at any moment, in O(1) time.

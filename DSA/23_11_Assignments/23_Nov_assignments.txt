@@ -1,0 +1,15 @@
+23_11_Assignments
+
+1.Implement Selection Sort
+
+2.Implement Stack using Array that includes operations like push,pop,isFull,isEmpty,peek.
+Also display the contents of the stack.
+
+3.Given a string containing only parentheses characters — 
+(, ), {, }, [, ] — determine whether the string is valid. 
+A string is valid if:
+
+Every opening bracket has a corresponding closing bracket of the same type
+Brackets are closed in the correct order
+
+4.Refer to MinimumStack.txt for Min Stack assignment
