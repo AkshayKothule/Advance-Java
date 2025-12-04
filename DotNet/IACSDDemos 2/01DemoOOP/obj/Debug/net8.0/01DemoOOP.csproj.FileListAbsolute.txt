@@ -1,0 +1,15 @@
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/bin/Debug/net8.0/01DemoOOP
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/bin/Debug/net8.0/01DemoOOP.deps.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/bin/Debug/net8.0/01DemoOOP.runtimeconfig.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/bin/Debug/net8.0/01DemoOOP.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/bin/Debug/net8.0/01DemoOOP.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.AssemblyInfoInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.AssemblyInfo.cs
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.sourcelink.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/refint/01DemoOOP.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/01DemoOOP.genruntimeconfig.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/01DemoOOP/obj/Debug/net8.0/ref/01DemoOOP.dll

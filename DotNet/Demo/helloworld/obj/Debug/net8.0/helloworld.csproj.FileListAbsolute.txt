@@ -1,0 +1,15 @@
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/bin/Debug/net8.0/helloworld
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.sourcelink.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demo/helloworld/obj/Debug/net8.0/ref/helloworld.dll

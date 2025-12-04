@@ -1,0 +1,15 @@
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.AssemblyInfoInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.AssemblyInfo.cs
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.sourcelink.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/bin/Debug/net8.0/EventDelegate
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/bin/Debug/net8.0/EventDelegate.deps.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/bin/Debug/net8.0/EventDelegate.runtimeconfig.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/bin/Debug/net8.0/EventDelegate.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/bin/Debug/net8.0/EventDelegate.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/refint/EventDelegate.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/EventDelegate.genruntimeconfig.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/EventDelegate/obj/Debug/net8.0/ref/EventDelegate.dll

@@ -1,0 +1,15 @@
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/bin/Debug/net8.0/Pratice1
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/bin/Debug/net8.0/Pratice1.deps.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/bin/Debug/net8.0/Pratice1.runtimeconfig.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/bin/Debug/net8.0/Pratice1.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/bin/Debug/net8.0/Pratice1.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.AssemblyInfoInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.AssemblyInfo.cs
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.sourcelink.json
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/refint/Pratice1.dll
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.pdb
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/Pratice1.genruntimeconfig.cache
+/Users/akshaykothule/Downloads/IACSDDemos 2/Pratice1/obj/Debug/net8.0/ref/Pratice1.dll
