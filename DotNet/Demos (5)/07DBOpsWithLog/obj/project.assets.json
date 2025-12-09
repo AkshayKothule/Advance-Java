@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DBOpsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DBOpsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBOpsLib.dll": {}
+        }
+      },
+      "LoggerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LoggerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBOpsLib/1.0.0": {
+      "type": "project",
+      "path": "../DBOpsLib/DBOpsLib.csproj",
+      "msbuildProject": "../DBOpsLib/DBOpsLib.csproj"
+    },
+    "LoggerLib/1.0.0": {
+      "type": "project",
+      "path": "../LoggerLib/LoggerLib.csproj",
+      "msbuildProject": "../LoggerLib/LoggerLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DBOpsLib >= 1.0.0",
+      "LoggerLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/akshaykothule/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/akshaykothule/Downloads/Demos (5)/07DBOpsWithLog/07DBOpsWithLog.csproj",
+      "projectName": "07DBOpsWithLog",
+      "projectPath": "/Users/akshaykothule/Downloads/Demos (5)/07DBOpsWithLog/07DBOpsWithLog.csproj",
+      "packagesPath": "/Users/akshaykothule/.nuget/packages/",
+      "outputPath": "/Users/akshaykothule/Downloads/Demos (5)/07DBOpsWithLog/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/akshaykothule/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/akshaykothule/Downloads/Demos (5)/DBOpsLib/DBOpsLib.csproj": {
+              "projectPath": "/Users/akshaykothule/Downloads/Demos (5)/DBOpsLib/DBOpsLib.csproj"
+            },
+            "/Users/akshaykothule/Downloads/Demos (5)/LoggerLib/LoggerLib.csproj": {
+              "projectPath": "/Users/akshaykothule/Downloads/Demos (5)/LoggerLib/LoggerLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/akshaykothule/.dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
