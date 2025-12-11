@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/06DemoFileIO.csproj": {}
+  },
+  "projects": {
+    "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/06DemoFileIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/06DemoFileIO.csproj",
+        "projectName": "06DemoFileIO",
+        "projectPath": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/06DemoFileIO.csproj",
+        "packagesPath": "/Users/akshaykothule/.nuget/packages/",
+        "outputPath": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshaykothule/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/akshaykothule/.dotnet/sdk/8.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

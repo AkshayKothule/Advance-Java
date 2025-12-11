@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8e7ss1Iyw0=",
+  "success": true,
+  "projectFilePath": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (7)/06DemoFileIO/06DemoFileIO.csproj",
+  "expectedPackageFiles": [
+    "/Users/akshaykothule/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/akshaykothule/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/akshaykothule/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
