@@ -1,0 +1,42 @@
+ -------------------------------------------------------
+|                       op.exe                          |
+|-------------------------------------------------------|
+|                                                       |
+|   1️⃣ MSIL (Intermediate Language)                     |
+|   --------------------------------------------------  |
+|   |  CPU-independent IL instructions                | |
+|   |  Example: ldstr, add, call, ret                 | |
+|   --------------------------------------------------  |
+|                                                       |
+|   2️⃣ Metadata                                         |
+|   --------------------------------------------------  |
+|   |  Information tables about:                      | |
+|   |    - Namespaces                                 | |
+|   |    - Classes                                    | |
+|   |    - Methods                                    | |
+|   |    - Fields, Properties                         | |
+|   |    - Attributes                                 | |
+|   |  Tables like:                                   | |
+|   |    - TypeDef Table                              | |
+|   |    - MethodDef Table                            | |
+|   |    - Field Table                                | |
+|   --------------------------------------------------  |
+|                                                       |
+|   3️⃣ Manifest (Assembly Manifest)                     |
+|   --------------------------------------------------  |
+|   |  Assembly Name                                  | |
+|   |  Version Number                                 | |
+|   |  Culture                                        | |
+|   |  Strong Name (optional)                         | |
+|   |  List of referenced assemblies                  | |
+|   --------------------------------------------------  |
+|                                                       |
+|   4️⃣ Resources                                        |
+|   --------------------------------------------------  |
+|   |  Images                                          | |
+|   |  JSON files                                      | |
+|   |  Embedded text                                   | |
+|   |  Config files                                    | |
+|   --------------------------------------------------  |
+|                                                       |
+ -------------------------------------------------------
