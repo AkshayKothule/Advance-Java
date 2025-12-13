@@ -1,0 +1,14 @@
+D:\IACSD\IACSDDemos\10DemoFeatures\bin\Debug\net8.0\10DemoFeatures.exe
+D:\IACSD\IACSDDemos\10DemoFeatures\bin\Debug\net8.0\10DemoFeatures.deps.json
+D:\IACSD\IACSDDemos\10DemoFeatures\bin\Debug\net8.0\10DemoFeatures.runtimeconfig.json
+D:\IACSD\IACSDDemos\10DemoFeatures\bin\Debug\net8.0\10DemoFeatures.dll
+D:\IACSD\IACSDDemos\10DemoFeatures\bin\Debug\net8.0\10DemoFeatures.pdb
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.AssemblyInfoInputs.cache
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.AssemblyInfo.cs
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.csproj.CoreCompileInputs.cache
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.dll
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\refint\10DemoFeatures.dll
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.pdb
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\10DemoFeatures.genruntimeconfig.cache
+D:\IACSD\IACSDDemos\10DemoFeatures\obj\Debug\net8.0\ref\10DemoFeatures.dll

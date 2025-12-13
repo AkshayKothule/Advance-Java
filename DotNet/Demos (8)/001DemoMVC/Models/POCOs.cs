@@ -56,7 +56,7 @@ namespace _001DemoMVC.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=EFDB;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Server=localhost,1433;Initial Catalog=IACSDDB;User Id=sa;Password=Akshay123#;TrustServerCertificate=True");
         }
     }
 }

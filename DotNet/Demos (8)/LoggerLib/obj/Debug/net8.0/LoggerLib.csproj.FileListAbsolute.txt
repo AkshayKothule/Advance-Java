@@ -1,0 +1,12 @@
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/bin/Debug/net8.0/LoggerLib.deps.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/bin/Debug/net8.0/LoggerLib.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/bin/Debug/net8.0/LoggerLib.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.AssemblyInfoInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.AssemblyInfo.cs
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.sourcelink.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/refint/LoggerLib.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/LoggerLib.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/LoggerLib/obj/Debug/net8.0/ref/LoggerLib.dll

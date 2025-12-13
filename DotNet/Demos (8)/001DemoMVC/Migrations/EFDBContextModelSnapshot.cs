@@ -38,26 +38,26 @@ namespace _001DemoMVC.Migrations
 
             modelBuilder.Entity("_001DemoMVC.Models.Emp", b =>
                 {
-                    b.Property<int>("No")
+                    b.Property<int>("no")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasColumnName("No");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("No"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("no"));
 
-                    b.Property<string>("Address")
+                    b.Property<string>("address")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("varchar")
                         .HasColumnName("Address");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("name")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("varchar")
                         .HasColumnName("Name");
 
-                    b.HasKey("No");
+                    b.HasKey("no");
 
                     b.ToTable("Employee");
                 });

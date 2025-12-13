@@ -1598,32 +1598,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/akshaykothule/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IACSD\\IACSDDemos\\13DemoDB\\13DemoDB.csproj",
+      "projectUniqueName": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/13DemoDB/13DemoDB.csproj",
       "projectName": "13DemoDB",
-      "projectPath": "D:\\IACSD\\IACSDDemos\\13DemoDB\\13DemoDB.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IACSD\\IACSDDemos\\13DemoDB\\obj\\",
+      "projectPath": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/13DemoDB/13DemoDB.csproj",
+      "packagesPath": "/Users/akshaykothule/.nuget/packages/",
+      "outputPath": "/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (8)/13DemoDB/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/akshaykothule/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1636,6 +1628,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1663,7 +1660,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
