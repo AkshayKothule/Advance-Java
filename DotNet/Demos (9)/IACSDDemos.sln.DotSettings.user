@@ -1,0 +1,39 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fbf9021a960b74107a7e141aa06bc9d8a0a53c929178c2fb95b1597be8af8dc_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMonitor_002ECoreCLR_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F8056cd3f452fefb9834f05cdb275b762dd41f27b7766cd71174e78592dc495b_003FMonitor_002ECoreCLR_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=506a92a1_002De850_002D4d86_002D82be_002D3ac2e64dba18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;16DemoTestTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTestTests" Presentation="&amp;lt;16DemoTestTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=15364d16_002Dfda9_002D48ae_002Da625_002D8ee6358be26e_002314DemoThreads/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=28913543_002D5db7_002D4ee2_002D83c6_002Da25e2fa0e6dc_002316DemoTestTests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=46761153_002Dbe91_002D41a1_002Dbb14_002D2541fa80d8e0_002316DemoTest/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b6af8993_002Df3d2_002D48d4_002Da009_002D3f58dbd2a91f_0023DemoHelloWorld/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e0b41195_002D110b_002D4da2_002D8fa1_002Db3214d84ddab_0023MathLib/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e4ac2202_002D08b3_002D4571_002Daf3e_002D681c4a96db8a_002300DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=39cf463b_002D324a_002D42a6_002D9443_002D27ae9f3985c4_002301DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=36227e8e_002D068d_002D4f8f_002D8cb6_002Dcf748372bd4d_002302DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=984f28b9_002D3f13_002D49bd_002D8958_002De161fbbeb0f7_002303DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=394c9e6a_002Ddd88_002D4174_002D9f27_002D26f153d843c0_002304DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=408a2c9e_002D9f6b_002D43bf_002Da8c2_002D8f935ba110bf_0023DemoDesktop/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=68437450_002D19d3_002D4d64_002D8fbc_002D0112a4f8ff53_002305DemoOOP/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=294d16e7_002D8f81_002D4b08_002Da5ed_002Da5ab34b0ef17_0023DBOpsLib/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4dc24c60_002D9f8a_002D41e1_002D96d3_002D60f3555b6854_002306DemoFileIO/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=651329be_002D6505_002D4120_002D8044_002Dc6a42388e36f_0023LoggerLib/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=10c8dccd_002D74e0_002D4e5b_002Da78c_002D5f59d25fe93a_002307DBOpsWithLog/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ff144e99_002D847d_002D4805_002D9ef5_002De357be1a26fa_002308DemoReflection/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=f7269371_002Dcfac_002D42cf_002D8909_002D299229d02c1e_0023001DemoMyAttributes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3c1921e3_002Db14c_002D4147_002D958d_002Db62fdba6d83b_0023002DemoPOCOLib/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=69687626_002D8002_002D4df5_002Db745_002Ddcb767f9ec58_0023003DemoMyORMFramework/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=84c7af1d_002Dc099_002D437f_002D9730_002Decff19c9aacb_002309DemoReflection/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4ca7e14d_002D2e81_002D4184_002Daf41_002D8920ace59617_002310DemoFeatures/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=efd2ab48_002Dbcaf_002D4365_002Db348_002D657e11e62ba0_002311DemoDB/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9c5206a9_002Df387_002D4cc3_002D9e3e_002Dab50ad0cd866_002312DemoDB/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=abe0c334_002D977d_002D41f4_002D9fb6_002D49df1809b898_0023HandsOnLab/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=503344ea_002D5491_002D428f_002D98a4_002Dc483757a218b_002313DemoDB/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=7c640a27_002D383b_002D4046_002Dbc7a_002Df9f73d325144_002315DemoThreads/@EntryIndexedValue">True</s:Boolean>
+	
+	</wpf:ResourceDictionary>

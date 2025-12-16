@@ -1,0 +1,15 @@
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/bin/Debug/net8.0/16DemoTest
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/bin/Debug/net8.0/16DemoTest.deps.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/bin/Debug/net8.0/16DemoTest.runtimeconfig.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/bin/Debug/net8.0/16DemoTest.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/bin/Debug/net8.0/16DemoTest.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.AssemblyInfoInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.AssemblyInfo.cs
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.sourcelink.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/refint/16DemoTest.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/16DemoTest.genruntimeconfig.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/16DemoTest/obj/Debug/net8.0/ref/16DemoTest.dll

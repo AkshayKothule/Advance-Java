@@ -1,0 +1,12 @@
+Logged at 15/12/2025 4:09:48 PM -Called /
+Logged at 15/12/2025 4:09:49 PM -Complted /
+Logged at 15/12/2025 4:09:49 PM -Called /Login/SignIn
+Logged at 15/12/2025 4:09:49 PM -Complted /Login/SignIn
+Logged at 15/12/2025 4:09:55 PM -Called /Login/SignIn
+Logged at 15/12/2025 4:09:55 PM -Complted /Login/SignIn
+Logged at 15/12/2025 4:09:55 PM -Called /Home/Index
+Logged at 15/12/2025 4:09:56 PM -Complted /Home/Index
+Logged at 15/12/2025 4:09:59 PM -Called /Home/Delete/1
+Logged at 15/12/2025 4:09:59 PM -Complted /Home/Delete/1
+Logged at 15/12/2025 4:09:59 PM -Called /Home/Index
+Logged at 15/12/2025 4:09:59 PM -Complted /Home/Index

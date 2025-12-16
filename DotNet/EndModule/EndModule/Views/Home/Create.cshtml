@@ -1,0 +1,17 @@
+﻿
+
+<html>
+	<head>
+		<title>Create Product</title>
+	</head>
+	<body>
+
+		<form method="post"  action="/Home/Create">
+			Name : <input type="text" name="Name" /> <span>@Html.ValidationMessage("Name")</span>
+			 Description : <input type="text" name="Description" /><span>@Html.ValidationMessage("Description")</span>
+			 Price : <input type="number" name="Price" /><span>@Html.ValidationMessage("Price")</span>
+			 Qty : <input type="number" name="Qty" /><span>@Html.ValidationMessage("Qty")</span>
+			  <button type="submit" name="btnadd" >Add Record</button>
+		</form>
+	</body>
+</html>

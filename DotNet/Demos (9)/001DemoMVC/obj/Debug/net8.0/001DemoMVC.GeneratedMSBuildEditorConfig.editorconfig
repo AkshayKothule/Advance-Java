@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _001DemoMVC
 build_property.RootNamespace = _001DemoMVC
-build_property.ProjectDir = D:\IACSD\IACSDDemos\001DemoMVC\
+build_property.ProjectDir = /Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IACSD\IACSDDemos\001DemoMVC
+build_property.MSBuildProjectDirectory = /Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Demo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xDcmVhdGUuY3NodG1s
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Demo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVtby9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Demo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Demo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVtby9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Home/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Home/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Login/SignIn.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnbkluLmNzaHRtbA==
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Login/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU2lnbkluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Shared/Master.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1hc3Rlci5jc2h0bWw=
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Shared/Master.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL01hc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Test/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxBYm91dC5jc2h0bWw=
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Test/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdC9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Test/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxDb250YWN0LmNzaHRtbA==
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Test/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdC9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/IACSDDemos/001DemoMVC/Views/Test/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+[/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/001DemoMVC/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

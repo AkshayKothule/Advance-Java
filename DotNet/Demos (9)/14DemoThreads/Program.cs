@@ -7,74 +7,75 @@ namespace _14DemoThreads
         static void Main(string[] args)
         {
             #region Simple Single Threaded Code
-            //Stopwatch stopwatch = new Stopwatch();
-            //stopwatch.Start();
+            
+            /*
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
 
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    DoSomething();
-            //}
+            for (int i = 0; i < 10; i++)
+            {
+                DoSomething();
+            }
 
-            //stopwatch.Stop();
-            //Console.WriteLine("Time Taken = {0}",stopwatch.ElapsedMilliseconds ); 
+            stopwatch.Stop();
+            Console.WriteLine("Time Taken = {0}",stopwatch.ElapsedMilliseconds );
+            */ 
             #endregion
 
             #region Simple Multi Threaded Code
+/*
+
+            Console.WriteLine("Main Thread ID = {0}", Thread.CurrentThread.ManagedThreadId);
+            List<Thread> threads = new List<Thread>();  
+
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
+            for (int i = 0; i < 10; i++)
+            {
+                //ThreadStart pointer = new ThreadStart(DoSomething);
+               // Thread thread = new Thread(pointer);
+                Thread thread = new Thread(DoSomething);
+                thread.Start();
+                threads.Add(thread);
+                
+            }
+            foreach (Thread  thread in threads)
+            {
+                thread.Join();
+            }
 
 
-            ////Console.WriteLine("Main Thread ID = {0}", Thread.CurrentThread.ManagedThreadId);
-            //List<Thread> threads = new List<Thread>();  
-
-            //Stopwatch stopwatch = new Stopwatch();
-            //stopwatch.Start();
-
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    //ThreadStart pointer = new ThreadStart(DoSomething);
-            //    //Thread thread = new Thread(pointer);
-
-            //    Thread thread = new Thread(DoSomething);
-            //    thread.Start();
-            //    threads.Add(thread);
-            //}
-            //foreach (Thread  thread in threads)
-            //{
-            //    thread.Join();
-            //}
-
-
-            //stopwatch.Stop();
-            //Console.WriteLine("Time Taken = {0}", stopwatch.ElapsedMilliseconds);
-
+            stopwatch.Stop();
+            Console.WriteLine("Time Taken = {0}", stopwatch.ElapsedMilliseconds);
+*/
             #endregion
 
             #region Explicit Parallel Programming :  (TPL) Code 
 
-            //List<Task> tasks = new List<Task>();
+    /*        List<Task> tasks = new List<Task>();
 
-            //Stopwatch stopwatch = new Stopwatch();
-            //stopwatch.Start();
-
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    Task task = new Task(DoSomething);
-            //    task.Start();
-            //    tasks.Add(task);
-            //}
-
-            //Task.WaitAll(tasks.ToArray());
-
-            //stopwatch.Stop();
-            //Console.WriteLine("Time Taken = {0}", stopwatch.ElapsedMilliseconds);
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
 
 
+            for (int i = 0; i < 10; i++)
+            {
+                Task task = new Task(DoSomething);
+                task.Start();
+                tasks.Add(task);
+            }
+
+            Task.WaitAll(tasks.ToArray());
+
+            stopwatch.Stop();
+            Console.WriteLine("Time Taken = {0}", stopwatch.ElapsedMilliseconds);
+
+*/
             #endregion
 
             #region Implicit Parallel Programming 
 
-            string[] allFiles = Directory.GetFiles("C:\\Windows\\System32\\");
+ /*          string[] allFiles = Directory.GetFiles("C:\\Windows\\System32\\");
 
             //Console.WriteLine(allFiles.Count());
 
@@ -85,15 +86,31 @@ namespace _14DemoThreads
 
             #region ForEach Vs Parallel For Each
             #region For Each
-            //foreach (string file in allFiles) //4592 times the loop is running
-            //{
-            //    if (file.Contains(".exe"))
-            //    {
-            //        Console.WriteLine(file);
-            //    }
-            //}
+            
+            
+            foreach (string file in allFiles) //4592 times the loop is running
+            
+            
+            {
+            
+            
+                if (file.Contains(".exe"))
+            
+            
+                {
+            
+            
+                    Console.WriteLine(file);
+            
+            
+                }
+            
+            
+            } 
+            
             #endregion
-
+            
+     
             #region Parallel ForEach
 
             //Parallel.ForEach(allFiles, (file) => {
@@ -102,10 +119,10 @@ namespace _14DemoThreads
             //        Console.WriteLine(file);
             //    }
             //});
+            //#endregion
+*/
             #endregion
-
-            #endregion
-
+ 
             var emps = new List<Emp>()
             {
               new Emp(){ No = 1, Name = "Hardik", Address = "Ghaziabad" },
@@ -120,7 +137,7 @@ namespace _14DemoThreads
 
             Console.WriteLine("Enter Character to find address:");
             string filter = Console.ReadLine();
-
+            Stopwatch stopwatch = new Stopwatch();
             #region Simple For Each  : Time : 4000 + MS
             //List<Emp> result = new List<Emp>();
             //foreach (Emp emp in emps)
@@ -140,10 +157,11 @@ namespace _14DemoThreads
             #endregion
 
             #region PLINQ Instead of LINQ : Time : 1900+ MS
+            stopwatch.Start();
             var result = (from emp in emps.AsParallel()
                           where emp.Address.ToLower().Contains(filter.ToLower())
                           select emp).ToList();
-
+     stopwatch.Stop();
             #endregion
 
             Console.WriteLine("--------------------------");
@@ -157,22 +175,25 @@ namespace _14DemoThreads
 
 
             Console.WriteLine("------------------------------------");
-            stopwatch.Stop();
+            
             Console.WriteLine("Time Taken = {0}", stopwatch.ElapsedMilliseconds);
-            #endregion
+           // #endregion
+            
 
             Console.ReadLine();
-        }
+        } 
+        
 
         public static void DoSomething()
         {
-            Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+            Console.WriteLine("inside DoSomething "+Thread.CurrentThread.ManagedThreadId);
             for (int i = 0; i < 100000; i++)
             {
                 for (int j = 0; j < 10000; j++)
                 {
                     //Do nothing 
                 }
+//                Console.WriteLine("inside for loop " + Thread.CurrentThread.ManagedThreadId);
             }
         }
     }

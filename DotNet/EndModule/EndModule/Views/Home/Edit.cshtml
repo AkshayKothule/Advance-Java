@@ -1,0 +1,19 @@
+﻿@model  EndModule.Model.Product;
+
+<html>
+	<head>
+		<title>Create Product</title>
+	</head>
+	<body>
+
+		<form method="post"  action="/Home/Edit">
+			 <input type="hidden" name="Id" value="@Model.Id" />
+			 Name : <input type="text" name="Name"  value="@Model.Name"/>
+			 Description : <input type="text" name="Description" value="@Model.Description" />
+			 Price : <input type="number" name="Price"  value="@Model.Price"/>
+			 Qty : <input type="number" name="Qty" value="@Model.Qty" />
+			  <button type="submit" name="btnupdate" >Update Record</button>
+		</form>
+	</body>
+</html>
+

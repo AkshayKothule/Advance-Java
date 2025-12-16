@@ -1,0 +1,15 @@
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/bin/Debug/net8.0/14DemoThreads
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/bin/Debug/net8.0/14DemoThreads.deps.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/bin/Debug/net8.0/14DemoThreads.runtimeconfig.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/bin/Debug/net8.0/14DemoThreads.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/bin/Debug/net8.0/14DemoThreads.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.AssemblyInfoInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.AssemblyInfo.cs
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.csproj.CoreCompileInputs.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.sourcelink.json
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/refint/14DemoThreads.dll
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.pdb
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/14DemoThreads.genruntimeconfig.cache
+/Users/akshaykothule/IACSD/Study Material/DotNet/Demos (9)/14DemoThreads/obj/Debug/net8.0/ref/14DemoThreads.dll
