@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using EndModule.Filter;
 using EndModule.Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,7 +9,7 @@ namespace EndModule.Controllers
     {
 
         ProductDAL dalobj = new ProductDAL();
-
+        [AuthFilter]
         public IActionResult Index()
         {
             List<Product> product = dalobj.getProduct();

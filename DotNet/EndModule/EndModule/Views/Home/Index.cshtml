@@ -6,44 +6,46 @@
 	</head>
 	<body>
 		 <a href="/Home/Create">Add recoerd</a>
-		<table border="1">
-			<thead>
-				<tr>
-					<th>Id</th>
-						<th>Name</th>
-							<th>Description</th>
-								<th>Price</th>
-									<th>Qty</th>
+	<table border="1">
+		<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Price</th>
+			<th>Qty</th>
 									
-									<th>Edit</th>
-									<th>Deletd</th>
+			<th>Edit</th>
+			<th>Deletd</th>
 					
-				</tr>
-			</thead>
-			<tbody>
-				@foreach(var product in Model)
-				{
-					<tr>
-						<td>@product.Id</td>
-						<td>@product.Name</td>
-						<td>@product.Description</td>
-						<td>@product.Price</td>
-						<td>@product.Qty</td>
+		</tr>
+		</thead>
+		<tbody>
+		@foreach(var product in Model)
+		{
+			<tr>
+				<td>@product.Id</td>
+				<td>@product.Name</td>
+				<td>@product.Description</td>
+				<td>@product.Price</td>
+				<td>@product.Qty</td>
 
-						<td>
-							<a href="/Home/Edit/@product.Id" >Edit</a>
+				<td>
+					<a href="/Home/Edit/@product.Id" >Edit</a>
 
-						</td>
+				</td>
 
 						
-						<td>
-							<a href="/Home/Delete/@product.Id" >Delete</a>
+				<td>
+					<a href="/Home/Delete/@product.Id" >Delete</a>
 
-						</td>
-					</tr>
-				}
-			</tbody>
-		</table>
+				</td>
+			</tr>
+		}
+		</tbody>
+	</table>
+	
+	<a href="/Login/SignOut">SignOut</a>
 
 	</body>
 </html>

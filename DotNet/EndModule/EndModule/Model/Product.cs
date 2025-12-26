@@ -12,6 +12,7 @@ namespace EndModule.Model
         [Required(ErrorMessage ="price is requird")]
         
         public int Price { get; set; }
+        [Required(ErrorMessage ="qty is requird ")]
         [Range(10 , 50 , ErrorMessage ="Enter in range 10 to 50")]
         public int Qty { get; set; }
 

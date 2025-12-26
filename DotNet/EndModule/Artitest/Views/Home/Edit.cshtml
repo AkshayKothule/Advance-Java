@@ -1,0 +1,22 @@
+
+@model Artitest.Models.Artitest;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    <form method="post" action="/Home/Edit">
+        <input type="hidden" name="Aid" value="@Model.Aid" />
+        Name : <input type="text" name="Name" value="@Model.Name"/>
+        Email : <input type="text" name="Email" value="@Model.Email"/>
+        Conatct : <input type="text" name="Contact" value="@Model.Contact"/>
+        Skilldescription : <input type="text" name="Skilldescription" value="@Model.Skilldescription"/>
+        <button type="submit"> update record</button>
+    </form> 
+
+</div>
+</body>
+</html>

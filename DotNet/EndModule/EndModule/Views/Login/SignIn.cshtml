@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Login In</title>
+</head>
+<body>
+<div>
+    <form method="post" action="/Login/SignIn">
+        Name : <input type="text" name="Name" /> <span>@Html.ValidationMessage("Name")</span>
+        Password : <input type="password" name="Password" /><span>@Html.ValidationMessage("Password")</span>
+        <button type="submit" name="btnSignIn">SignIn</button>
+    </form>
+
+</div>
+</body>
+</html>

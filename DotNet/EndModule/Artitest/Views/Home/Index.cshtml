@@ -1,0 +1,49 @@
+
+@model List<Artitest.Models.Artitest>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    <a href="/Home/Create">Add record</a>
+    <table border="1">
+        <thead>
+        <tr>
+            <th>Aid</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Conatct</th>
+            <th>Skilldescription</th>
+            <th>Edit</th>
+            <th>Delete</th>
+
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var artitest in Model)
+        {
+            <tr>
+                <td>@artitest.Aid</td>
+                <td>@artitest.Name</td>
+                <td>@artitest.Email</td>
+                <td>@artitest.Contact</td>
+                <td>@artitest.Skilldescription</td>
+                <td>
+                    <a href="/Home/Edit/@artitest.Aid">Edit</a>
+
+                </td>
+                <td>
+                    <a href="/Home/Delete/@artitest.Aid">Delete</a>
+
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
